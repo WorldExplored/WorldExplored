@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Srreyansh Sethi and I'm a high schooler, from California, United States</h2>
+<h2 align="left">My name is Srreyansh Sethi and I'm a high schooler, from California, United States</h2>
 
 ###
 
