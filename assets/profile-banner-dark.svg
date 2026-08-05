@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Srreyansh Sethi profile banner</title>
+  <desc id="desc">Dark banner for machine learning systems, LLM inference, and GPU computing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#111a36"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.17" cy="0.2" r="0.75">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.88" cy="0.85" r="0.7">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#glowA)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#glowB)"/>
+  <rect x="1" y="1" width="1278" height="318" rx="23" fill="none" stroke="#cbd5e1" stroke-opacity="0.12"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+
+  <g opacity="0.9">
+    <path d="M845 82 C925 42 1010 52 1066 108 C1128 170 1178 167 1248 116" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M818 230 C915 170 1009 190 1075 238 C1124 274 1181 270 1245 224" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.72"/>
+    <path d="M892 54 L892 256 M978 38 L978 276 M1064 58 L1064 258 M1150 42 L1150 278" stroke="#93c5fd" stroke-opacity="0.09" stroke-width="1"/>
+
+    <g fill="#0f1b33" stroke="url(#accent)" stroke-width="3">
+      <rect x="826" y="91" width="82" height="46" rx="12"/>
+      <rect x="953" y="61" width="92" height="50" rx="12"/>
+      <rect x="1084" y="104" width="94" height="50" rx="12"/>
+      <rect x="879" y="198" width="92" height="50" rx="12"/>
+      <rect x="1014" y="192" width="92" height="50" rx="12"/>
+      <rect x="1140" y="206" width="76" height="44" rx="12"/>
+    </g>
+
+    <g fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" text-anchor="middle">
+      <text x="867" y="120">INPUT</text>
+      <text x="999" y="91">COMPILE</text>
+      <text x="1131" y="135">KERNEL</text>
+      <text x="925" y="228">ATTN</text>
+      <text x="1060" y="222">SERVE</text>
+      <text x="1178" y="234">EVAL</text>
+    </g>
+
+    <g fill="#22d3ee">
+      <circle cx="842" cy="72" r="5"/>
+      <circle cx="932" cy="158" r="5"/>
+      <circle cx="1025" cy="139" r="5"/>
+      <circle cx="1116" cy="184" r="5"/>
+      <circle cx="1212" cy="173" r="5"/>
+    </g>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="74" y="112" fill="#f8fafc" font-size="54" font-weight="760" letter-spacing="1.2">SRREYANSH SETHI</text>
+    <rect x="76" y="137" width="470" height="4" rx="2" fill="url(#accent)"/>
+    <text x="76" y="186" fill="#cbd5e1" font-size="25" font-weight="560" letter-spacing="0.8">ML SYSTEMS  •  LLM INFERENCE  •  GPU COMPUTING</text>
+    <text x="76" y="229" fill="#94a3b8" font-size="19" font-weight="500">Purdue ’29  ·  vLLM contributor  ·  EMNLP 2024 co-author</text>
+  </g>
+</svg>
