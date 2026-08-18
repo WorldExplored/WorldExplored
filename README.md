@@ -29,7 +29,7 @@ My work sits at the boundary between **performance and correctness**: reproducin
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Marlin W4A8 expanding `ldmatrix`
+### Marlin W4A8 expanding `ldmatrix`
 
 **[vLLM PR #50096](https://github.com/vllm-project/vllm/pull/50096)** · `OPEN`
 
@@ -44,7 +44,7 @@ Implementing a CUDA 13.4 path that uses PTX expanding `ldmatrix` forms for symme
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Batch-invariant backend selection
+### Batch-invariant backend selection
 
 **[vLLM PR #40193](https://github.com/vllm-project/vllm/pull/40193)** · `MERGED`
 
@@ -61,7 +61,7 @@ Made attention-backend auto-selection aware of batch-invariance requirements so 
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Safer `torch.compile` cache invalidation
+### Safer `torch.compile` cache invalidation
 
 **[vLLM PR #26468](https://github.com/vllm-project/vllm/pull/26468)** · `MERGED` · co-developed
 
@@ -72,7 +72,7 @@ Co-developed opt-out configuration hashing for vLLM's `torch.compile` cache keys
 </td>
 <td width="50%" valign="top">
 
-### 🎥 Multimodal `/classify`
+### Multimodal `/classify`
 
 **[vLLM PR #27516](https://github.com/vllm-project/vllm/pull/27516)** · `MERGED`
 
@@ -129,5 +129,5 @@ Co-authored an **11,677-example Ukrainian-language social-media dataset** for bi
 ---
 
 <div align="center">
-  <sub>Interested in technically substantive collaborations across ML systems, agents, computer vision, and robotics.</sub>
+  <sub>Interested in technically substantive collaborations around ML systems, inference infrastructure, and applied AI systems.</sub>
 </div>
